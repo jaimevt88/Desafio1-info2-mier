@@ -52,6 +52,9 @@ int main() {
 
     return 0;
 }
+<<<<<<< HEAD
 //ESto es un comentario
 //Esto es otro comentario
 //Esto no es un comentario
+=======
+>>>>>>> parent of 2a04a38 (doc del código)
