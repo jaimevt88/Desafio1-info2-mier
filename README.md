@@ -1,2 +1,2 @@
 Este es uin archivo de información
-Cambio hecho por x
+Este es un cambio hecho por X y por Y
